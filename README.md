@@ -5,7 +5,9 @@ In this repository we make available the code of all the models we tried out wit
 visualization and interactive code.
 ## Contributors:
 Male Jithendra
+
 Pasala Veerasiva
+
 Vivek Narayan
 
 ## Acknowledgement:
